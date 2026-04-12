@@ -9,3 +9,12 @@ p {
 body {
   background-color : #938f8c  
 }
+
+div {
+  width: 200px;
+  height: 100px;
+  background-color: #3b3836;
+  border: 2px solid #fcbb6d;
+  padding: 10px;
+  margin: 20px;
+}
